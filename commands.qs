@@ -17,12 +17,7 @@ LAST	Len	"Donna Treanor"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q215622	P768	Q3137895	P102	Q161269	P1111	1282	P1352	5	S4656	"https://en.wikipedia.org/wiki/Bridgwater_and_West_Somerset_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Fares Moussa"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q3137895	P102	Q3360801	P1111	755	P1352	5	S4656	"https://en.wikipedia.org/wiki/Bridgwater_and_West_Somerset_(UK_Parliament_constituency)"
+Q76131095	P3602	Q30173038	P768	Q3137895	P102	Q3360801	P1111	755	P1352	5	S4656	"https://en.wikipedia.org/wiki/Bridgwater_and_West_Somerset_(UK_Parliament_constituency)"
 Q748955	P3602	Q30173038	P768	Q3137895	P102	Q9626	P1111	35827	P1352	1	S4656	"https://en.wikipedia.org/wiki/Bridgwater_and_West_Somerset_(UK_Parliament_constituency)"
 Q748955	P3602	Q25052149	P768	Q3137895	P102	Q9626	P1111	32111	P1352	1	S4656	"https://en.wikipedia.org/wiki/Bridgwater_and_West_Somerset_(UK_Parliament_constituency)"
 Q748955	P3602	Q3586935	P768	Q3137895	P102	Q9626	P1111	25020	P1352	1	S4656	"https://en.wikipedia.org/wiki/Bridgwater_and_West_Somerset_(UK_Parliament_constituency)"
